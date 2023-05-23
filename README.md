@@ -1,3 +1,9 @@
+<p>cara run : </p>
+<p>1. buat db baru Namanya rest_api_db</p>
+<p>2. cmd di root project</p>
+<p>3. php artisan migrate</p>
+<p>4. 5. php artisan serve</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
