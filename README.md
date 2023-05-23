@@ -4,6 +4,16 @@
 <p>3. php artisan migrate</p>
 <p>4. php artisan serve</p>
 
+
+<p>requirement</p>
+<p>php versi 8.2</p>
+<p>composer terbaru</p>
+<p>Laravel 9.0</p>
+ 
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
